@@ -1,0 +1,9 @@
+[project]
+name = "mlx-speedrun"
+version = "0.0.1"
+description = "Optimizing MLX inference"
+requires-python = ">=3.13"
+dependencies = [
+    "mlx-lm>=0.31.3",
+    "rich>=13.0.0",
+]
